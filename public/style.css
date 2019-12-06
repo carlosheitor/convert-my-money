@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    text-align: center;
+}
+h1 img {
+    width: 375x;
+    height: 57px;
+    margin: 20px;
+}
+input {
+    border: 1px solid #000000;
+    margin-bottom: 24px;
+    font-size: 20px; 
+    line-height: 28px;
+    font-family: 'Roboto', sans-serif;
+    background: #FDFDFD;
+    padding: 10px;
+}
+button {
+    font-size: 24px; 
+    line-height: 28px;
+    font-family: 'Roboto', sans-serif;
+    padding: 14px 97px 11px 98px;
+    background: #D8D8D8;
+    border: 1px solid #000000;
+}
